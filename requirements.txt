@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain_core
+python-dotenv
+streamlit
+chromadb
+beautifulsoup4
+langchain-google-genai
+faiss-cpu
